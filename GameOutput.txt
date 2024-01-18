@@ -1,0 +1,72 @@
+None None None None None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None None None None
+None None None None None None
+Scores: Blue - 0 Red - 0
+
+Current Player: 2
+(1, 2) None None None None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None None None None
+None None None None None None
+Scores: Blue - 0 Red - 0
+
+Current Player: 1
+(1, 2) (2, 1) None None None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None None None None
+None None None None None None
+Scores: Blue - 0 Red - 0
+
+Current Player: 2
+(1, 2) (2, 1) (1, 2) None None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None None None None
+None None None None None None
+Scores: Blue - 0 Red - 1
+
+Current Player: 1
+(1, 2) (2, 1) (1, 2) None None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None (2, 1) None None
+None None None None None None
+Scores: Blue - 0 Red - 1
+
+Current Player: 2
+(1, 2) (2, 1) (1, 2) (1, 2) None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None (2, 1) None None
+None None None None None None
+Scores: Blue - 0 Red - 1
+
+Current Player: 1
+(1, 2) (2, 1) (1, 2) (1, 2) None None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None (2, 1) None None
+None None None None (1, 1) None
+Scores: Blue - 1 Red - 1
+
+Current Player: 2
+(1, 2) (2, 1) (1, 2) (1, 2) (1, 2) None
+None None None None None None
+None None None None None None
+None None (1, 1) None None None
+None None None (2, 1) None None
+None None None None (1, 1) None
+Scores: Blue - 1 Red - 1
+
+Current Player: 1
